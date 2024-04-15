@@ -1,10 +1,10 @@
 # Demo
 
 Some Description!
-help
 
 # subheader
 
 Watch tutorial on Youtube.
-help please
 
+##local Development
+1. Open index.html in your browser
